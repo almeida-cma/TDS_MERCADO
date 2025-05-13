@@ -13,7 +13,7 @@ Documento informativo que explora:
 * Oportunidades de carreira e projeções do mercado.
 * A importância do desenvolvimento de habilidades técnicas e comportamentais.
 
-### 2. `TDS_Mercado.html`
+### 2. `index.html`
 
 Uma página web interativa desenvolvida em **HTML/CSS** com foco em **Front-End**, que relaciona:
 
@@ -35,3 +35,6 @@ O principal objetivo deste projeto é **refletir sobre a importância de aprende
 * HTML5
 * CSS3 (caso aplicável)
 * PDF (formato do conteúdo teórico)
+
+## 💡 Links sugeridos
+* https://almeida-cma.github.io/TDS_MERCADO/
